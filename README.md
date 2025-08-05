@@ -6,5 +6,6 @@ Seulement sur Windows
 
 RadminVPN
 
-SonicSpiral_FR
-GoldDRoger
+Name SonicSpiral_FR
+
+password GoldDRoger
